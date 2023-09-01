@@ -1,0 +1,23 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+span {
+  display: block;
+  text-align: center;
+}
+.button-container {
+  text-align: center;
+}
+
+#value{
+  visibility: hidden;
+} 
+
+.container-cache{
+  text-align: center;
+}
